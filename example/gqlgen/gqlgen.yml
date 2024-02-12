@@ -1,0 +1,9 @@
+schema:
+  - ./schema/schema.graphql
+exec:
+  filename: ./server_gen.go
+resolver:
+  layout: follow-schema
+  dir: .
+model:
+  filename: ./model/models_gen.go
