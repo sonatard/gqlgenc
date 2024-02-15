@@ -9,8 +9,8 @@ import (
 	"os"
 
 	"github.com/99designs/gqlgen/graphql"
-	"github.com/Yamashou/gqlgenc/clientv2"
-	"github.com/Yamashou/gqlgenc/example/files-info/gen"
+	"github.com/sonatard/gqlgenc/clientv2"
+	"github.com/sonatard/gqlgenc/example/files-info/gen"
 )
 
 const FilesDir = "./example/files-info/files/"

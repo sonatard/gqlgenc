@@ -11,7 +11,7 @@ import (
 	"github.com/99designs/gqlgen/plugin"
 	"github.com/99designs/gqlgen/plugin/federation"
 	"github.com/99designs/gqlgen/plugin/modelgen"
-	"github.com/Yamashou/gqlgenc/config"
+	"github.com/sonatard/gqlgenc/config"
 )
 
 // mutateHook adds the "omitempty" option to optional field from input type model as defined in graphql schema

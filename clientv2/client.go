@@ -13,7 +13,7 @@ import (
 	"strconv"
 
 	"github.com/99designs/gqlgen/graphql"
-	"github.com/Yamashou/gqlgenc/graphqljson"
+	"github.com/sonatard/gqlgenc/graphqljson"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 )
 

@@ -5,10 +5,10 @@ import (
 	"os"
 
 	"github.com/99designs/gqlgen/api"
-	"github.com/Yamashou/gqlgenc/clientgen"
-	"github.com/Yamashou/gqlgenc/clientgenv2"
-	"github.com/Yamashou/gqlgenc/config"
-	"github.com/Yamashou/gqlgenc/generator"
+	"github.com/sonatard/gqlgenc/clientgen"
+	"github.com/sonatard/gqlgenc/clientgenv2"
+	"github.com/sonatard/gqlgenc/config"
+	"github.com/sonatard/gqlgenc/generator"
 	"github.com/urfave/cli/v2"
 )
 

@@ -8,7 +8,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/Yamashou/gqlgenc/graphqljson"
+	"github.com/sonatard/gqlgenc/graphqljson"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 )
 
